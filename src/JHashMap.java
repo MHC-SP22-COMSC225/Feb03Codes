@@ -35,7 +35,6 @@ public class JHashMap {
 		//5. Does it have fruit Banana
 		System.out.println("Does map have Banana? " + hmap.containsValue("Banana") + "\n");		
 		
-
 	}
 
 }
